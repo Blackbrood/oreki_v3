@@ -22,7 +22,7 @@ global.prefix = '.'
 global.antidelete = true; // Fixed: Changed comma to semicolon
 global.autoreact = false;
 global.antilink = false;
-global.autoGreet = true; // Set to false to disable greeting response
+global.autoGreet = false; // Set to false to disable greeting response
 global.welcome = false;
 global.mess = {
     group: "*Group chats only 😕*",
